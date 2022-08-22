@@ -18,7 +18,7 @@ We all know about the sentiments. The concept of sentiment analysis on twitter i
 ### NOTE:
 #### To know in detail about the project, regarding which approach we used and much more, please refer to the PROJECT_REPORT.pdf file.
 
-
+### Please watch the demonstration video for better understanding.
 ## Author of the Repository
 
 - [Parth Patel](https://www.github.com/pnp642001)
